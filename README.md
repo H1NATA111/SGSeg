@@ -15,7 +15,8 @@
 - `pip install -r requirements.txt`
 
 ## Training script
-```bash sh run.sh [CONFIG] [NUM_GPUS] [OUTPUT_DIR] [OPTS]
+```
+bash sh run.sh [CONFIG] [NUM_GPUS] [OUTPUT_DIR] [OPTS]
 # For example
 sh run.sh configs/vitl_336.yaml 4 output/
 ```
