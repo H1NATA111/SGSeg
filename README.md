@@ -5,11 +5,11 @@
 ![](fig/2.png)
 
 ## Training script
-bash sh run.sh [CONFIG] [NUM_GPUS] [OUTPUT_DIR] [OPTS]
+```bash sh run.sh [CONFIG] [NUM_GPUS] [OUTPUT_DIR] [OPTS]```
 
 
 ## Evaluation script
-bash sh run.sh [CONFIG] [NUM_GPUS] [OUTPUT_DIR] [OPTS]
+```bash sh run.sh [CONFIG] [NUM_GPUS] [OUTPUT_DIR] [OPTS]```
 
 
 ## Acknowledgement
